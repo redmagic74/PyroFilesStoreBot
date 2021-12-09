@@ -30,11 +30,11 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @Inevitable_74
 
-👥 **Support Group:** [Linux Repositories](https://t.me/Subscribeforuseme)
+👥 **Support Group:** [Support](https://t.me/Subscribeforuseme)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Subscribeforuseme)
+📢 **Updates Channel:** [Projects](https://t.me/Subscribeforuseme)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Inevitable_74
